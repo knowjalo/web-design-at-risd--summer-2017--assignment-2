@@ -1,5 +1,16 @@
 body {
-   font-family: 'Source Serif Pro', serif;;
+   font-family: 'Source Serif Pro', serif;
+}
+
+h1 {
+   font-size:150px;
+   color:#e3eee5;
+}
+
+h2 {
+   color:white;
+   font-size:18px;
+   font-weight:italic;
 }
 
 .hero {
